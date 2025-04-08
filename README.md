@@ -14,3 +14,5 @@ In Gauss Seidel Mehtod Folder, there are three necessary files which is used for
 
 
 In Newton_Raphson folder, there are again three necessary files for the determination of power flow determination using Newton Raphson method. For any changes in line or bus data, update the excel (.xlsx) files and the code in the NR_method.m file for the necessary Y bus to be formed.
+
+Change Committed (09-04-2025): new file Corrected_NR_method.m has been created. Please use this file for Newton Raphson method. No need for the excel files (bus_data.xlsx and line_data.xlsx). All the network data (bus and line) should be updated in the MATLAB code.
